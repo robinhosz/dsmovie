@@ -103,13 +103,22 @@ $ yarn start
   - useParams
   - useNavigate
 
-## 🧑 Autor
+### 🧑 Autor
 
-
- <img style="border-radius: 8px" src="https://avatars.githubusercontent.com/u/29661219?s=460&u=42024e42215c64adeba9a923579809c57f36fe0d&v=4" width="100px;" alt="Beatriz Dalto"/>
+<a href="http://portfoliojrsz.herokuapp.com/">
+ <img style="border-radius: 8px" src="https://user-images.githubusercontent.com/82779533/158067762-8d25be74-d955-41da-8a96-f400e75f902b.jpg" width="100px;" alt="José Robson"/>
 <br />
-<sub><strong>Beatriz Dalto</strong></sub></a>
+<sub><strong>José Robson</strong></sub></a>
 
+
+<br />
+<br />
+
+:point_down: Entre em contato.
+
+<br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-robson-52b0bb208)](https://www.linkedin.com/in/josé-robson-52b0bb208)
 
 
 
